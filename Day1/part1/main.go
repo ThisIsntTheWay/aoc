@@ -17,7 +17,7 @@ func check(e error) {
 
 func main() {
 	// Files
-	data, err := os.Open("./input")
+	data, err := os.Open("../input")
 	check(err)
 	defer data.Close()
 	scanner := bufio.NewScanner(data)
