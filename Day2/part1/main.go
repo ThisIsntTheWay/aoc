@@ -58,7 +58,7 @@ func main() {
 			} else if color == "green" {
 				isGameValid = quantity > 13
 			} else { // Blue
-				isGameValid = quantity > 13
+				isGameValid = quantity > 14
 			}
 		}
 
