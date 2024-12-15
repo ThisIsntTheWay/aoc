@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"os"
 
-	day1part1 "github.com/ThisIsntTheWay/aoc/day1/part1"
-	day1part2 "github.com/ThisIsntTheWay/aoc/day1/part2"
-	day1utils "github.com/ThisIsntTheWay/aoc/day1/utils"
+	day1part1 "github.com/ThisIsntTheWay/aoc/2024/day1/part1"
+	day1part2 "github.com/ThisIsntTheWay/aoc/2024/day1/part2"
+	day1utils "github.com/ThisIsntTheWay/aoc/2024/day1/utils"
 )
 
 func main() {
